@@ -1,29 +1,36 @@
 # FLUTTER
 
 1. Login
+2. Home
+3. Menu - Friends
+4. Friends - selected friend
+5. Match
 
 # KOTLIN
 
 1. Login
+2. Home
+3. Grades
+4. Menu - Friends
 
 
 # Patterns
-MVVM - Kotlin
-MVVM - Flutter
-Singleton - Kotlin
-Singleton - Flutter
-Observer - Kotlin
-Factory - Kotlin
-REST - Kotlin
-REST - Flutter
-Client-server - Kotlin
-Client-server - Flutter 
-DAO - Kotlin
-Service adapter - Kotlin
-Service adapter Flutter
-DTO - Kotlin
-DTO - Flutter
-Builder - Flutter
+1. MVVM - Kotlin
+2. MVVM - Flutter
+3. Singleton - Kotlin
+4. Singleton - Flutter
+5. Observer - Kotlin
+6. Factory - Kotlin
+7. REST - Kotlin
+8. REST - Flutter
+9. Client-server - Kotlin
+10. Client-server - Flutter 
+11. DAO - Kotlin
+12. Service adapter - Kotlin
+13. Service adapter Flutter
+14. DTO - Kotlin
+15. DTO - Flutter
+16. Builder - Flutter
 
 # Business Question
 ## Kotlin
@@ -41,16 +48,28 @@ Builder - Flutter
 # Features
 ## Kotlin
 a. Send my location with GPS sensor to an email
+
 b. Button that shows the gap 
+
 c. Shows if friends are free or busy 
+
 d. Risk alert
+
 e. User password login screen
+
 f. Create subject and load into a database
+
 
 ## Flutter
 a. Send my location with GPS sensor to an email
+
 b. Shows match button for each friend to see free gaps of friends schedule for day
+
 c. Shows if friends are free or busy 
+
 d. Common free time finder & conflict detection
+
 e. User password login screen
+
 f. Create a friend and load into a database
+
