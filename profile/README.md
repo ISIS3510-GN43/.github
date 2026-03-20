@@ -1,8 +1,8 @@
 # FLUTTER
 
-1. Login
+1. Login ✅
 2. Home
-3. Menu - Friends
+3. Menu - Friends ✅
 4. Friends - selected friend
 5. Match
 
@@ -16,28 +16,29 @@
 
 # Patterns
 1. MVVM - Kotlin ✅
-2. MVVM - Flutter
+2. MVVM - Flutter ✅
 3. Singleton - Kotlin ✅
 4. Singleton - Flutter
 5. Observer - Kotlin
-6. Factory - Kotlin ✅
-7. REST - Kotlin ✅
-8. REST - Flutter
-9. Client-server - Kotlin ✅
-10. Client-server - Flutter 
-11. DAO - Kotlin
-12. Service adapter - Kotlin ✅
-13. Service adapter Flutter
-14. DTO - Kotlin
-15. DTO - Flutter
-16. Builder - Flutter
+6. Observer - Flutter ✅
+7. Factory - Kotlin ✅
+8. REST - Kotlin ✅
+9. REST - Flutter
+10. Client-server - Kotlin ✅
+11. Client-server - Flutter 
+12. DAO - Kotlin
+13. Service adapter - Kotlin ✅
+14. Service adapter Flutter
+15. DTO - Kotlin
+16. DTO - Flutter
+17. Builder - Flutter
 
 # Business Question
 ## Kotlin
 ### BQ 2
-✅ - What times of day are there more students free near the university?
+ - What times of day are there more students free near the university? ✅
  - What is my current average in my X subject?
-➖ - Does the average calculation time of the function “what do I need to pass?” exceed our target (100 ms)? *Analytics part
+ - Does the average calculation time of the function “what do I need to pass?” exceed our target (100 ms)? *Analytics part ➖
 
 ## Flutter
 ### BQ 2
@@ -65,11 +66,11 @@ a. Send my location with GPS sensor to an email
 
 b. Shows match button for each friend to see free gaps of friends schedule for day
 
-c. Shows if friends are free or busy 
+✅ c. Shows if friends are free or busy
 
 d. Common free time finder & conflict detection
 
-e. User password login screen
+✅ e. User password login screen 
 
 f. Create a friend and load into a database
 
