@@ -8,25 +8,25 @@
 
 # KOTLIN
 
-1. Login
-2. Home
-3. Grades
-4. Menu - Friends
+1. Login and registration ✅
+2. Home ✅
+3. Grades ✅
+4. Menu - Friends ✅
 
 
 # Patterns
-1. MVVM - Kotlin
+1. MVVM - Kotlin ✅
 2. MVVM - Flutter
-3. Singleton - Kotlin
+3. Singleton - Kotlin ✅
 4. Singleton - Flutter
 5. Observer - Kotlin
-6. Factory - Kotlin
-7. REST - Kotlin
+6. Factory - Kotlin ✅
+7. REST - Kotlin ✅
 8. REST - Flutter
-9. Client-server - Kotlin
+9. Client-server - Kotlin ✅
 10. Client-server - Flutter 
 11. DAO - Kotlin
-12. Service adapter - Kotlin
+12. Service adapter - Kotlin ✅
 13. Service adapter Flutter
 14. DTO - Kotlin
 15. DTO - Flutter
@@ -35,9 +35,9 @@
 # Business Question
 ## Kotlin
 ### BQ 2
-- What times of day are there more students free near the university?
-- What is my current average in my X subject?
-- Does the average calculation time of the function “what do I need to pass?” exceed our target (100 ms)?
+✅ - What times of day are there more students free near the university?
+ - What is my current average in my X subject?
+➖ - Does the average calculation time of the function “what do I need to pass?” exceed our target (100 ms)? *Analytics part
 
 ## Flutter
 ### BQ 2
@@ -49,15 +49,15 @@
 ## Kotlin
 a. Send my location with GPS sensor to an email
 
-b. Button that shows the gap 
+✅ b. Button that shows the gap 
 
-c. Shows if friends are free or busy 
+✅ c. Shows if friends are free or busy 
 
-d. Risk alert
+✅ d. Risk alert
 
-e. User password login screen
+✅ e. User password login screen
 
-f. Create subject and load into a database
+✅ f. Create subject and load into a database  (registration, 
 
 
 ## Flutter
