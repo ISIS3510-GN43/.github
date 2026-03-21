@@ -1,9 +1,9 @@
 # FLUTTER
 
 1. Login ✅
-2. Home
+2. Home ✅
 3. Menu - Friends ✅
-4. Friends - selected friend
+4. Friends - selected friend ✅
 5. Match
 
 # KOTLIN
@@ -62,7 +62,7 @@ a. Send my location with GPS sensor to an email
 
 
 ## Flutter
-a. Send my location with GPS sensor to an email
+✅ a. Send my location with GPS sensor to an email
 
 b. Shows match button for each friend to see free gaps of friends schedule for day
 
@@ -72,5 +72,5 @@ d. Common free time finder & conflict detection
 
 ✅ e. User password login screen 
 
-f. Create a friend and load into a database
+✅ f. Create a friend and load into a database
 
