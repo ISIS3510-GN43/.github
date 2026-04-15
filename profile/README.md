@@ -88,9 +88,13 @@ d. Common free time finder & conflict detection
 ✅ e. ArrayDeque
 
 ✅ f. Sequence
+
 ✅ g. ArrayMap
+
 ✅ h. ArraySet
+
 ✅ i. SparseArray y familia Sparse
+
 ✅ j. LruCache
 
 
