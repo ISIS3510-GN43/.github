@@ -74,3 +74,17 @@ d. Common free time finder & conflict detection
 
 ✅ f. Create a friend and load into a database
 
+# Estructuras de datos  para caché
+## Kotlin
+✅ a.Array / IntArray / LongArray / etc.
+✅ b.List / MutableList
+✅ c. Set / MutableSet
+✅ d. Map / MutableMap
+✅ e. ArrayDeque
+✅ f. Sequence
+✅ g. ArrayMap
+✅ h. ArraySet
+✅ i. SparseArray y familia Sparse
+✅ j. LruCache
+
+
