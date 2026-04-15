@@ -97,4 +97,15 @@ d. Common free time finder & conflict detection
 
 ✅ j. LruCache
 
+## Flutter
+
+✅ a. Hash Map<K,V> / Linked Hash Map<K,V>
+
+✅ b. AVL tree / Red-Black tree / B-tree
+
+✅ c. Linked
+
+✅ d. Queues / Heaps 
+
+✅ e. Set / Hash Set  
 
