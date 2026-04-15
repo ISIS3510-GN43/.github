@@ -78,10 +78,15 @@ d. Common free time finder & conflict detection
 ## Kotlin
 
 ✅ a.Array / IntArray / LongArray / etc.
+
 ✅ b.List / MutableList
+
 ✅ c. Set / MutableSet
+
 ✅ d. Map / MutableMap
+
 ✅ e. ArrayDeque
+
 ✅ f. Sequence
 ✅ g. ArrayMap
 ✅ h. ArraySet
