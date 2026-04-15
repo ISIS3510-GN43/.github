@@ -76,6 +76,7 @@ d. Common free time finder & conflict detection
 
 # Estructuras de datos  para caché
 ## Kotlin
+
 ✅ a.Array / IntArray / LongArray / etc.
 ✅ b.List / MutableList
 ✅ c. Set / MutableSet
